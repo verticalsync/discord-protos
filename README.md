@@ -27,8 +27,8 @@ yarn add discord-protos
 # with pnpm
 pnpm add discord-protos
 
-# with pip
-pip install discord-protos
+# with pip (from my fork)
+pip install git+https://github.com/verticalsync/discord-protos.git@master
 ```
 
 ### Example
